@@ -1,4 +1,4 @@
-# Repository for *Parameter Efficient Fine Tuning Llama 3.1 for Answering Arabic Legal Questions: A Case Study on Jordanian Laws*
+# *Parameter Efficient Fine Tuning Llama 3.1 for Answering Arabic Legal Questions: A Case Study on Jordanian Laws*
 
 This repository contains the datasets and source code associated with the paper:
 
